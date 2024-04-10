@@ -1,9 +1,7 @@
 
 # 🚀 Virtual AI Keyboard
 
-This project is a virtual AI keyboard that utilizes hand tracking to simulate keyboard inputs, allowing users to type in any application, such as Notepad or code editors, with hand gestures.
-
-
+This project is a virtual AI keyboard that utilizes hand tracking to simulate keyboard inputs, allowing users to type in any application, such as Notepad or code editors, with hand gestures. The system tracks the index finger and assumes a click when the index and middle fingers are in contact, providing a natural and intuitive user experience. It is built using the Hand Tracking module from cvzone and OpenCV, along with the pynput module for simulating keyboard inputs.
 
 
 
