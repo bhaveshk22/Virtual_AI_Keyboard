@@ -11,6 +11,7 @@ This project is a virtual AI keyboard that utilizes hand tracking to simulate ke
 
 ## Screenshots
 
+![image](https://github.com/bhaveshk22/Virtual_AI_Keyboard/assets/141263853/90ce5792-5fc1-4db7-8a15-ef3dd674fc9d)
 
 
 ## Features
